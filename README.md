@@ -1,10 +1,14 @@
+**This is a fork of https://github.com/IOTI/silverstripe-blogcategories.git - I've added a composer.json file for [Composer](http://getcomposer.org/) compatibility.**
+
+Details on how to add modules to your project using Composer can be found [here](http://doc.silverstripe.org/framework/en/installation/composer).
+
+***
+
 silverstripe-blogcategories
 ===========================
 
-Adds a manageable list of categories to the SilverStripe blog Module
+This module adds a manageable list of categories to the SilverStripe blog Module.
 
-extract and put in the root of your SilverStripe install.
+Extract the files and put them the root of your SilverStripe install (or use Composer - see above).
 
-Requires the SilverStripe Blog Module to be installed
-
-Requires SilverStripe v3.0.2+
+It requires [SilverStripe v3.0.2+](http://www.silverstripe.org/) and the [SilverStripe Blog Module](https://github.com/silverstripe/silverstripe-blog) to be installed.
